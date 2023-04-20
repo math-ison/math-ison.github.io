@@ -1,4 +1,6 @@
+remote_theme: pages-themes/minimal@v0.2.0
+
+
 title: Madison Riba
 # logo: /assets/img/logo.png
 description: Mathematics Master's student at Texas A&M University-Corpus Christi
-theme: minimal
