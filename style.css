@@ -37,26 +37,6 @@
     color: aliceblue !important;
 }
 
-.contact-button
-{
-    top: 40px;
-    right: 80px;
-    position: absolute;
-    text-decoration: none;
-    color: aliceblue;
-    border: 2px solid transparent;
-    border-radius: 20px;
-    background-image: linear-gradient(purple, black
-    ), radial-gradient(circle at top left, green, blue);
-    background-origin: border-box;
-    background-clip: content-box, border-box;
-}
-
-.contact-button span
-{
-    display: block;
-    padding: 10 px 20 px;
-}
 
 .banner
 {
@@ -105,31 +85,6 @@
     padding-left: 50px;
 }
 
-.play-button
-{
-    margin-left: 40px;
-    display: inline-flex;
-}
-
-.play-button-inner
-{
-    height: 50px;
-    width: 50px;
-    border: 2px solid transparent;
-    border-radius: 50%;
-    background-image: linear-gradient(purple, black
-    ), radial-gradient(circle at top left, green, blue);
-    background-origin: border-box;
-    background-clip: content-box, border-box;
-    text-align: center;
-}
-
-.play-button-inner .fa
-{
-    padding: 18px 0;
-    font-size: 13px;
-    cursor: pointer;
-}
 
 small
 {
