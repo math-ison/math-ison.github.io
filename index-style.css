@@ -47,33 +47,35 @@
 
 .banner
 {
-    width: 70%;
+    width: 60%;
     height: 70%;
-    top: 15%;
+    top: 10%;
     left: 10%;
     position: relative;
     color: navy;
 }
 
-.app-text
+.body-text
 {
-    width: 60%;
     float: left;
     color: darkblue;
 }
 
-.app-text h1
+.body-text h1
 {
-    font-size: xx-large;
-    width: 60%;
-    position: relative;
-    margin-left: 0px;
+    font-size: xxx-large;
+    margin-bottom: 5px;
 }
 
-.app-text p
+.body-text h2
+{
+    font-size: x-large;
+    position: relative;
+}
+
+.body-text p
 {
     font-size: large;
-    width: 60%;
     margin: 10px 0 40px;
     line-height: 25px;
 }
