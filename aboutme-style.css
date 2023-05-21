@@ -25,6 +25,11 @@
     color: navy;
 }
 
+.menu ul li a
+{
+    color: navy;
+}
+
 .logo img
 {
     width: 30px;
@@ -34,15 +39,15 @@
 
 .active 
 {
-    color: aliceblue !important;
+    color: aliceblue;
 }
 
 
 .banner
 {
-    width: 70%;
+    width: 90%;
     height: 70%;
-    top: 15%;
+    top: 10%;
     left: 10%;
     position: relative;
     color: navy;
@@ -50,25 +55,53 @@
 
 .text
 {
-    width: 60%;
+    width: 95%;
     float: left;
     color: darkblue;
 }
 
 .text h1
 {
-    font-size: xx-large;
-    width: 60%;
+    font-size: xxx-large;
     position: relative;
     margin-left: 0px;
+}
+
+.text h2
+{
+    font-size: xx-large;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.text h3
+{
+    margin-left: 5%;
+    margin-bottom: 10px;
 }
 
 .text p
 {
     font-size: large;
-    width: 60%;
-    margin: 10px 0 40px;
+    margin: 10px 0 20px;
     line-height: 25px;
+}
+
+.text p2
+{
+    margin-left: 5%;
+    width: 95%;
+}
+
+.text ul li
+{
+    margin-top: -10px;
+    margin-left: 5%;
+}
+
+.text ul li a
+{
+    color: navy;
 }
 
 .social-icons
