@@ -48,14 +48,14 @@
     color: navy;
 }
 
-.app-text
+.text
 {
     width: 60%;
     float: left;
     color: darkblue;
 }
 
-.app-text h1
+.text h1
 {
     font-size: xx-large;
     width: 60%;
@@ -63,28 +63,13 @@
     margin-left: 0px;
 }
 
-.app-text p
+.text p
 {
     font-size: large;
     width: 60%;
     margin: 10px 0 40px;
     line-height: 25px;
 }
-
-.app-picture
-{
-    width: 40%;
-    float: right;
-}
-
-
-.app-picture img
-{
-    width: 100%;
-    margin-top: -20px;
-    padding-left: 50px;
-}
-
 
 .social-icons
 {
@@ -103,9 +88,9 @@
 .social-icons ul li a
 {
     color: rgb(12, 84, 84);
-    border-radius: 40%;
+    border-radius: 30%;
     border: 3px solid rgb(12, 84, 84);
-    padding: 7px;
+    padding: 10px;
     display: block;
 }
 
