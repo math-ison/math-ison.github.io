@@ -91,6 +91,7 @@
 .body-text ul li a
 {
     color: navy;
+    line-height: 25px;
 }
 
 .social-icons
