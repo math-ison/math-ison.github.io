@@ -85,13 +85,13 @@
 {
     margin-top: -10px;
     margin-left: 5%;
-    line-height: 25px;
+    line-height: normal;
 }
 
 .body-text ul li a
 {
     color: navy;
-    line-height: 25px;
+    line-height: normal;
 }
 
 .social-icons
